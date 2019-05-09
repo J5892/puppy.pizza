@@ -1,0 +1,24 @@
+{
+  "name": "puppy.pizza",
+  "version": "1.0.0",
+  "description": "This repo is a collection of retro-style games that will be hosted on http://puppy.pizza.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J5892/puppy.pizza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J5892/puppy.pizza/issues"
+  },
+  "homepage": "https://github.com/J5892/puppy.pizza#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
